@@ -1,0 +1,36 @@
+.titulo {
+	text-align: center;
+}
+
+.nome {
+	color: grey;
+	padding:0;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+.star {
+	color: orange;
+}
+
+.currency {
+	color: red;
+	font-weight: bold;
+}
+
+.total-reviews {
+	font-size: 0.8em;
+}
+
+.info {
+	color: grey;
+	font-size: 0.9em;
+}
